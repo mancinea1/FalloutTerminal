@@ -1,6 +1,3 @@
-var script = document.createElement('script');
-script.src = 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'; // Check https://jquery.com/ for the current version
-document.getElementsByTagName('head')[0].appendChild(script);
 var howManyDuds = 7; //must be less than 15.
 var tries = 4;
 var x_length = 315; //changes how much the gibberish screen will spread across the x axis
