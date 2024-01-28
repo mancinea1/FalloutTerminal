@@ -130,7 +130,7 @@ function getDuds(amt_of_inner) {
 
 
 var difficulty = "";
-$(document).ready(function () {
+$("index.html").ready(function () {
 
     $(".fa-cogs").click(function () {
         $(".black-computer-framing-before").css("display", "none");
